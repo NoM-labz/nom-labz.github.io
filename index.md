@@ -6,3 +6,4 @@ At NoM Labz, we are dedicated to the development and growth of the Zenon Network
 
 [Zenon Network](https://zenon.network) - [The Network of Momentum](https://www.youtube.com/watch?v=UqAequz4mgk)
 
+Contact me via DM at [0x3639](https://forum.hypercore.one/u/0x3639/activity)
