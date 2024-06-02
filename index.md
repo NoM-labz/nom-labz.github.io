@@ -8,7 +8,7 @@ At NoM Labz, we are dedicated to the development and growth of the Zenon Network
 
 [Zenon.org](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2) is a separate private organization. While they run several Pillars (validators) within the Zenon Network, their focus is on performance marketing and they use proprietary, closed-source tools.
 
-[Verify, don’t trust.](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2)
+[Verify, don’t trust.](https://forum.hypercore.one/t/what-is-the-difference-between-zenon-network-and-zenon-org/467)
 
 Contact me via DM at [0x3639](https://forum.hypercore.one/u/0x3639/activity)
 
